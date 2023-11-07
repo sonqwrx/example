@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Merriweather&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Agbalumo&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700&display=swap');
+
+ body{
+	background-color: #C2F8F5;
+}
+p{
+	text-align: center;
+	font-size: 50px;
+	text-shadow: 0px 0px 30px lightblue;
+	background: linear-gradient( #A56BC8, #3FB7EC);
+}
+table{
+	border: double 2px #2A3DC2;
+	font-size: 24px;
+	border-collapse: separate;
+	margin: auto;
+	width: 50%;
+	box-shadow: 0px 0px 20px white;
+}
+th, td{
+	border: solid 1px purple;
+	width: 25%;
+	font-family: 'Merriweather', serif;
+}
+caption{
+	color: #5E168D;
+	text-transform: uppercase;
+	text-shadow: 0 0 40px /*#B968EE*/ ;
+	font-size: 40px;
+	font-family: 'Playfair Display', serif;;
+	background-image: url(https://platfor.ma/images/doc/9/8/982fe03-jivotniye-.gif);
+}
+tr:hover{
+	background-color: #C976F5;
+}
+td:hover{
+    font-weight: 700;
+	text-align: center;
+	text-transform: uppercase;
+	color: black;
+	text-shadow: 0px 0px 20px #D198F3;
+	font-size: 1.3em;
+}

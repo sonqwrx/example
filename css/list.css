@@ -1,0 +1,36 @@
+body{
+	background-color:#EC7C7D ;
+}
+p{
+	font-size: 50px;
+	text-align: center;
+	color: #90298A ;
+	text-shadow: 0px 0px 3px #E3B146;
+
+}
+ul, ol , dl{
+	font-size: 30px;
+	color: #90298A;
+}
+}
+.l1 li{
+	padding-left: 15px;
+}
+ol{
+	margin-left: 75px;
+}
+.l2{
+	color: #E2EE34;
+	text-shadow: 0px 0px 30px #E3B146;
+	background: linear-gradient(#E346C6 , #E34671);
+}
+@counter-style circled-digits {
+  system: cyclic;
+  symbols: 🤍	 💜 💚	 💙 💛	 🖤	 🤎	 💗	 🧡 💖;
+  suffix: " ";
+}
+
+ul.l3{
+  list-style: circled-digits;
+
+}

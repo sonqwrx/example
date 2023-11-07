@@ -1,0 +1,84 @@
+@import url('https://fonts.googleapis.com/css2?family=Cormorant+Infant:wght@500&family=El+Messiri:wght@500&family=Play:wght@700&family=Stalinist+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+
+body{
+	background-color: lightcyan;
+}
+p{
+	font-size: 40px;
+}
+.p1{
+	color: slateblue ;
+	background: linear-gradient( lightpink , lavender) ;
+	text-align: center;
+	text-shadow: 0px 0px 20px lightskyblue;
+
+}
+.p2{
+	font-family: monospace;
+	color: blue;
+	font-weight: bold;
+	font-style: italic;
+}
+.p3{
+	font-family: 'Cormorant Infant', serif;
+	color: deepskyblue;
+	letter-spacing: 2px;
+}
+.p4{
+	
+font-family: 'El Messiri', sans-serif;
+color: royalblue;
+}
+.p5{
+  font-family: 'Play', sans-serif;
+color: mediumblue;
+}
+.p6{
+font-family: 'Stalinist One', sans-serif;
+color: navy;
+}
+.p7{
+	text-decoration: underline;
+	text-decoration-color: deeppink;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+}
+.p8{
+	text-decoration: underline;
+	text-decoration-color: hotpink;
+	text-decoration-style: double;
+	text-underline-position: under;
+}
+.p9{
+	text-decoration: underline;
+	text-decoration-color: deeppink;
+	text-decoration-style: dashed;
+	text-underline-position: under;
+	text-shadow: 0px 0px 30px forestgreen;
+}
+.p10{
+	text-decoration: underline;
+	text-decoration-color: deeppink;
+	text-decoration-style: wavy;
+	text-underline-position: under;
+	text-shadow: 0px 0px 30px lavender , 0px 4px 40px deeppink;
+}
+.p13{
+	text-transform: uppercase;
+}
+.s1{
+	font-size:2em ;
+	font-family:'Stalinist One' ;
+	text-shadow: 0px 0px 40px mediumblue;
+}
+
+.p15{
+	font-family: "Press Start 2P";
+	text-align: center;
+	text-shadow: 0px 0px 30px #0ff ;
+	text-decoration: underline;
+	text-decoration-color: #00cd ;
+	background: linear-gradient( lightskyblue, blueviolet);
+}

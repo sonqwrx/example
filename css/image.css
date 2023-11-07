@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css2?family=Marmelad&family=Rubik+Mono+One&family=Shantell+Sans&display=swap');
+body{
+	background-color: darkviolet ;
+	background-image: url(https://www.icegif.com/wp-content/uploads/2022/01/icegif-1479.gif);
+	background-repeat: no-repeat;
+	background-position: 100% 100%;
+	background-attachment: fixed;
+	background-size: 200px;
+}
+p{
+	font-size: 0.5in;
+	background-image: url(https://unblast.com/wp-content/uploads/2021/01/Space-Background-Images.jpg);
+color: deepskyblue;
+font-family: "Rubik Mono One" ;
+text-align: center;
+text-shadow: 0px 3px 10px navy, 3px 2px 5px lightblue;
+}
+.im1{
+	width: 50%;
+	margin: auto;
+	display: block;
+	border-radius: 50%;
+	box-shadow: 0px 0px 40px mediumblue;
+}
+.im2{
+	width: 500px;
+	border: ridge 30px mediumblue;
+}
+.d1{
+	width: 500px;
+	height: 500px;
+	background-image: url(https://i.pinimg.com/564x/5a/4b/f6/5a4bf6fe14b719c94acf34158db11ff3.jpg);
+	border: groove 20px mediumblue;
+	margin: 50px;
+}
